@@ -9,7 +9,7 @@
 • Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn), SQL, R, JavaScript, Java, C, C++  
 • Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB  
 • Cloud Platforms: Microsoft Azure (ADF, SQL Database, Synapse, Databricks), AWS (S3, RDS, Athena, Glue, Redshift, QuickSight)  
-• Data Engineering & ETL: Apache Spark (PySpark, Spark SQL), Hadoop (HDFS, MapReduce, Hive), Kafka, dbt, Airflow, Snowflake, Databricks  
+• Data Engineering & ETL: Apache Spark (PySpark, Spark SQL), Hadoop, Kafka, dbt, Apache Airflow, Snowflake, Databricks  
 • BI & Visualization: Power BI, Tableau, Looker, Microsoft Excel  
 • Web Technologies: React.js, Node.js, Express.js, REST APIs, HTML, CSS  
 • Developer Tools: Git, GitHub, Docker, Jira, Linux  
