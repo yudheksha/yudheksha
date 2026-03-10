@@ -11,7 +11,7 @@
 * Data Engineering: Apache Spark, PySpark, Spark SQL, Hadoop, Kafka, dbt, Apache Airflow, Snowflake
 * Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
 * Cloud Platforms: Microsoft Azure (ADF, SQL Database, Synapse, Databricks), AWS (S3, RDS, Athena, Glue, Redshift, QuickSight)
-* BI & Visualization: Power BI, Tableau, Looker, Microsoft Excel, Power Query
+* BI & Analytics: Power BI, Tableau, Looker, Alteryx, Microsoft Excel, Power Query
 * Web Technologies: React.js, Node.js, Express.js, REST APIs
 * Developer Tools: Git, GitHub, Docker, Jira, Linux
 
