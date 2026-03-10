@@ -6,13 +6,15 @@
 
 💻 My technical toolkit includes:
 
-• Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn), SQL, R, JavaScript, Java, C, C++  
-• Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB  
-• Cloud Platforms: Microsoft Azure (ADF, SQL Database, Synapse, Databricks), AWS (S3, RDS, Athena, Glue, Redshift, QuickSight)  
-• Data Engineering & ETL: Apache Spark (PySpark, Spark SQL), Hadoop, Kafka, dbt, Apache Airflow, Snowflake, Databricks  
-• BI & Visualization: Power BI, Tableau, Looker, Microsoft Excel  
-• Web Technologies: React.js, Node.js, Express.js, REST APIs, HTML, CSS  
-• Developer Tools: Git, GitHub, Docker, Jira, Linux  
+* Programming Languages: Python, SQL, R, Java, JavaScript, C, C++, HTML, CSS
+* Data Analysis & Machine Learning: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+* Data Engineering: Apache Spark, PySpark, Spark SQL, Hadoop, Kafka, dbt, Apache Airflow, Snowflake
+* Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
+* Cloud Platforms: Microsoft Azure (ADF, SQL Database, Synapse, Databricks), AWS (S3, RDS, Athena, Glue, Redshift, QuickSight)
+* BI & Visualization: Power BI, Tableau, Looker, Microsoft Excel, Power Query
+* Web Technologies: React.js, Node.js, Express.js, REST APIs
+* Developer Tools: Git, GitHub, Docker, Jira, Linux
+
 
 🚀 I’m actively seeking opportunities in Data Analytics, Business Intelligence, Data Science, and Data Engineering.
 
