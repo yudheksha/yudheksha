@@ -15,7 +15,7 @@
 * Developer Tools: Git, GitHub, Docker, Jira, Linux
 
 
-🚀 I’m actively seeking opportunities in Data Analytics, Business Intelligence, Data Science, and Data Engineering.
+🚀 I’m actively seeking opportunities in Data Analytics, Business Intelligence, Business Analytics, and Data Engineering.
 
 📫 How to reach me:  
 LinkedIn: https://www.linkedin.com/in/yudheksha
