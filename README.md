@@ -16,4 +16,4 @@
 🚀 I’m open to opportunities in Data Analytics, Business Intelligence, Business Analytics, Data Engineering, Software Engineering, and Software Development Engineer (SDE) roles.
 
 📫 How to reach me:  
-LinkedIn: linkedin.com/in/yudheksha
+[LinkedIn](https://www.linkedin.com/in/yudheksha)
