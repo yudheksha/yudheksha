@@ -1,21 +1,19 @@
-👋 Hi, I’m Yudheksha  
-👀 I’m interested in all things related to data.  
+👋 Hi, I’m Yudheksha.
 
 🎓 MS in Computer Science, Indiana University Bloomington  
 🎓 B.Tech in Computer Science and Engineering, Vellore Institute of Technology  
 
 💻 My technical toolkit includes:
 
-* Programming Languages: Python, SQL, R, Java, JavaScript, C, C++, HTML, CSS
+* Programming Languages: Python, SQL, R, Java, JavaScript, TypeScript, C, C++, HTML, CSS
 * Data Analysis & Machine Learning: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 * Data Engineering: Apache Spark, PySpark, Spark SQL, Hadoop, Kafka, dbt, Apache Airflow, Snowflake
-* Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
-* Cloud Platforms: Microsoft Azure (ADF, SQL Database, Synapse, Databricks), AWS (S3, RDS, Athena, Glue, Redshift, QuickSight), Power BI, Tableau, Looker, Alteryx, Microsoft Excel, Power Query
-* Web Technologies: React.js, Node.js, Express.js, REST APIs
-* Developer Tools: Git, GitHub, Docker, Jira, Linux
+* Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Firestore
+* Cloud Platforms: Microsoft Azure (ADF, SQL Database, Synapse, Databricks), AWS (EC2, S3, Lambda, RDS, Athena, Glue, Redshift, QuickSight), Google Cloud Storage, Power BI, Tableau, Looker, Alteryx, Microsoft Excel, Power Query
+* Web Technologies: React.js, Next.js, Node.js, Express.js, REST APIs, Tailwind CSS, JWT, Google OAuth, Firebase
+* Developer Tools: Git, GitHub, GitHub Actions, Docker, Jira, Linux, VS Code, Vercel, Render
 
-
-🚀 I’m actively seeking opportunities in Data Analytics, Business Intelligence, Business Analytics, and Data Engineering.
+🚀 I’m open to opportunities in Data Analytics, Business Intelligence, Business Analytics, Data Engineering, Software Engineering, and Software Development Engineer (SDE) roles.
 
 📫 How to reach me:  
-LinkedIn: https://www.linkedin.com/in/yudheksha
+LinkedIn: linkedin.com/in/yudheksha
