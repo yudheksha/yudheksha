@@ -13,7 +13,6 @@
 * Web Technologies: React.js, Next.js, Node.js, Express.js, REST APIs, Tailwind CSS, Firebase
 * Developer Tools: Git, GitHub, GitHub Actions, Docker, Jira, Linux, VS Code, Vercel, Render
 
-🚀 I’m open to opportunities in Data Analytics, Business Intelligence, Business Analytics, Data Engineering, Software Engineering, and Software Development Engineer (SDE) roles.
-
+🚀 I’m open to opportunities in Data Analytics, Business Intelligence, Business Analytics, Data Engineering & Machine Learning roles.
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/yudheksha)
